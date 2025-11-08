@@ -1,1 +1,1 @@
-Statistical analysis to find potential customer group for new credit card .
+Statistical analysis to find potential customer group for new credit cards.
